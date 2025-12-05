@@ -138,8 +138,11 @@ a{
     bottom: -60px;
 }
 a:hover > div{
-    display: flex;
     transform: translateY(-5px);
+}
+.w-150p:hover{
+    background-color: rgba(29, 61, 19, 0.9);
+
 }
 .bg-secondary-transparent{
     background-color: #E4E6E7;
