@@ -138,11 +138,18 @@ a{
     bottom: -60px;
 }
 a:hover > div{
-    transform: translateY(-5px);
+    transform: translateX(3px);
 }
 .w-150p:hover{
     background-color: rgba(29, 61, 19, 0.9);
 
+}
+.btnyellow:hover{
+    background-color: rgba(239, 223, 106, 0.9);
+    
+}
+.btntrans:hover{
+    background-color: rgba(255, 255, 255, 0.1);
 }
 .bg-secondary-transparent{
     background-color: #E4E6E7;
